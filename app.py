@@ -11,7 +11,6 @@ from preprocess import preprocess_text
 # Set page config for aesthetics
 st.set_page_config(
     page_title="Spam Email Classifier",
-    page_icon="📧",
     layout="wide",
     initial_sidebar_state="expanded",
 )

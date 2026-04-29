@@ -2,6 +2,8 @@
 
 A machine learning-based web application to classify emails as spam or ham (not spam).
 
+**Live Demo:** [https://spam-classifier-mfcqzwd2ug2cvncgrjd9hi.streamlit.app/](https://spam-classifier-mfcqzwd2ug2cvncgrjd9hi.streamlit.app/)
+
 ## Description
 
 This project provides an intuitive Streamlit interface for email classification. It leverages multiple machine learning models including Logistic Regression, Support Vector Machines (SVM), Naive Bayes, Random Forest, and an Ensemble method to predict whether a given email or batch of emails is spam. 
